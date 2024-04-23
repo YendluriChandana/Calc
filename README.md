@@ -133,7 +133,8 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-04-23 113331.png>)
+![alt text](<Screenshot 2024-04-23 114309.png>)
 
+![alt text](<Screenshot 2024-04-23 114317.png>)
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
